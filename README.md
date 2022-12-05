@@ -3,6 +3,7 @@ Finding a valid route between two cities using A-Star Search
 Given the position of a client and some taxis, the scope of this project is to find the closest taxi to the client and the best route that corresponds to this taxi.
 
 Table of contents:
+
 Reflection.pdf: Description of the problem and personal reflection.
 
 "Inputfile.csv": This file contains the values of the location of the start city and country, and goal city and country in the following form:
