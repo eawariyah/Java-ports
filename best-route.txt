@@ -1,0 +1,68 @@
+Source: Accra,  Ghana
+Goal: Winnipeg,  Canada
+
+No best path, normal route
+
+1. WB from ACC to BOY 0 stops
+2. 2J from BOY to OUA 0 stops
+3. UA from OUA to COO 0 stops
+4. W3 from COO to IAM 0 stops
+5. AH from IAM to OGX 0 stops
+6. AH from OGX to TGR 0 stops
+7. AH from TGR to INZ 0 stops
+8. AH from INZ to HME 0 stops
+9. YO from HME to GHA 0 stops
+10. AH from GHA to ELG 0 stops
+11. AH from ELG to BSK 0 stops
+12. ZI from BSK to AZR 0 stops
+13. AH from AZR to MUW 0 stops
+14. AH from MUW to ORN 0 stops
+15. ZI from ORN to TLM 0 stops
+16. ZI from TLM to CFK 0 stops
+17. AH from CFK to TID 0 stops
+18. AH from TID to HRM 0 stops
+19. AH from HRM to TEE 0 stops
+20. AH from TEE to CZL 0 stops
+21. ZI from CZL to AAE 0 stops
+22. ZI from AAE to MZW 0 stops
+23. AH from MZW to TMR 0 stops
+24. AH from TMR to DJG 0 stops
+25. AH from DJG to ALG 0 stops
+26. ZI from ALG to BJA 0 stops
+27. ZI from BJA to ZFM 0 stops
+28. 6L from ZFM to YZV 0 stops
+29. WJ from YZV to YZT 0 stops
+30. 8P from YZT to YZR 0 stops
+31. AC from YZR to YZP 0 stops
+32. AC from YZP to YZF 0 stops
+33. WS from YZF to YYZ 0 stops
+34. WS from YYZ to YYY 0 stops
+35. Q9 from YYY to YYU 0 stops
+36. JV from YYU to YYT 0 stops
+37. WS from YYT to YYR 0 stops
+38. WJ from YYR to YYQ 0 stops
+39. MO from YYQ to YYJ 0 stops
+40. WS from YYJ to YYH 0 stops
+41. 7F from YYH to YYG 0 stops
+42. WS from YYG to YYF 0 stops
+43. AC from YYF to YYE 0 stops
+44. 9M from YYE to YYD 0 stops
+45. BH from YYD to YYC 0 stops
+46. WS from YYC to YYB 0 stops
+47. JV from YYB to YXY 0 stops
+48. AC from YXY to YXX 0 stops
+49. WS from YXX to YXU 0 stops
+50. WS from YXU to YXT 0 stops
+51. WS from YXT to YXS 0 stops
+52. WS from YXS to YXP 0 stops
+53. 7F from YXP to YXL 0 stops
+54. WT from YXL to YXJ 0 stops
+55. WS from YXJ to YXH 0 stops
+56. AC from YXH to YXE 0 stops
+57. WS from YXE to YXC 0 stops
+58. AC from YXC to YWL 0 stops
+59. AC from YWL to YWK 0 stops
+
+
+Total flights: 59
+Total additional stops: 0
