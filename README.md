@@ -1,7 +1,7 @@
 # Java Airports
 
 ## Overview
-Java Airports is a program designed to find a valid route between two cities using A-Star Search algorithm. The main objective of this project is to determine the closest airport to a given client's location and then identify the optimal route corresponding to this airport.
+Java Airports is a program designed to find the distance and a valid route between two cities using haversine and an A-Star Search algorithm. The main objective of this project is to determine the closest airport to a given client's location and then identify the optimal route corresponding to this airport.
 
 ## Files Included
 1. **Reflection.pdf**: This document provides a detailed description of the problem statement and offers a personal reflection on the project.
@@ -57,7 +57,7 @@ To utilize the Java Airports program, follow these steps:
 - This program is written in Java and requires a compatible Java Runtime Environment (JRE) to execute.
 - Ensure that all required input files are correctly formatted and accessible by the program.
 
-## Contributors
+## For more information
 - [Edwin Awariyah]
 - [edwin.awariyah@outlook.com]
 
